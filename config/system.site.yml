@@ -1,0 +1,14 @@
+uuid: f6f2eac3-371c-4297-b33a-3f337e664fe8
+name: 'Big Tome'
+mail: admin@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /home
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

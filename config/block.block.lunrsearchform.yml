@@ -1,0 +1,23 @@
+uuid: 2cd4b54d-21ad-4757-970b-b2a98804b087
+langcode: en
+status: true
+dependencies:
+  config:
+    - lunr.lunr_search.default
+  module:
+    - lunr
+  theme:
+    - bartik
+id: lunrsearchform
+theme: bartik
+region: header
+weight: -1
+provider: null
+plugin: lunr_search
+settings:
+  id: lunr_search
+  label: 'Lunr search form'
+  provider: lunr
+  label_display: '0'
+  lunr_search_id: default
+visibility: {  }
