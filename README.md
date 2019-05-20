@@ -12,7 +12,7 @@ static site, and `./lunr.sh` to build the search index.
 On my 2015 MacBook Pro, my recent times are:
 
 - `./install.sh`: 4.5 minutes
-- `./static.sh`: 10 minutes
+- `./static.sh`: 6 minutes
 - `./lunr.sh`: 4 minutes
 
 What makes consistent performance testing hard with Tome is that different PHP
