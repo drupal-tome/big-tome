@@ -1,0 +1,39 @@
+{
+    "uid": [
+        {
+            "value": 18
+        }
+    ],
+    "uuid": [
+        {
+            "value": "10064d25-3660-4fd2-905c-cabf437096dc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "slitrostatrivothuclorodidreclifruuujudramoborodeducokocreshe"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-20T00:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-20T00:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

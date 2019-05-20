@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "5fa174fa-2535-4dd4-b924-b6004ca8d6ad"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6ede78be-da81-4913-8fb2-b29f59fb06a6"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-05-20T00:40:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a98d63f-a89c-4076-ac60-3ad87504c2a9"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a98d63f-a89c-4076-ac60-3ad87504c2a9"
+        }
+    ],
+    "title": [
+        {
+            "value": "sti"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-20T00:40:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-20T00:40:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "Augue luctus sit te vel. Bene nunc persto. Aptent defui jus plaga sino. Autem commodo gilvus nisl nunc plaga proprius venio vereor.\n\nCaecus cui huic nostrud nunc obruo paulatim tamen tum utrum. Amet quadrum ratis verto zelus. Abico dolus duis ludus natu nimis nulla praesent torqueo valde. Fere genitus patria praesent valde. Et eum facilisi interdico ratis refero utrum validus. Cogo commodo erat meus neque tincidunt vero vindico voco. Augue bene commodo eum exerci feugiat huic ille neo utrum.\n\nCapto commoveo elit gilvus loquor ludus molior quibus saluto. Blandit consectetuer luptatum nisl pecus proprius ullamcorper verto vulpes. Accumsan elit incassum secundum suscipere. Dolore macto metuo occuro sagaciter.\n\nIdeo melior modo. Aptent illum imputo. Eligo gravis nisl quae. Appellatio ideo plaga valetudo veniam. Mos oppeto ratis sagaciter sudo te venio. Abluo esca pecus quadrum. Adipiscing aliquam consectetuer iustum luctus minim nulla probo quia.\n\nCogo comis commoveo laoreet luctus neo odio sagaciter verto. Aliquam lobortis refero. Aliquip cogo defui luctus premo roto voco. Camur commoveo gemino haero hendrerit. Conventio iaceo volutpat.\n\nAutem decet euismod laoreet molior. Abbas esse iusto luptatum modo natu nibh praemitto rusticus. Abigo adipiscing aliquam aptent fere quibus uxor wisi.\n\nAntehabeo augue camur eligo jumentum mauris melior tamen. Brevitas distineo oppeto paulatim pneum similis sino usitas validus. In lucidus patria. Abigo gemino genitus obruo valde verto. Accumsan damnum decet esca exputo imputo nibh nimis tum voco.\n\nCausa iaceo lenis magna pecus vero. Amet augue dignissim dolus exerci gravis nulla tum. Abluo eros facilisis inhibeo laoreet nunc nutus suscipere tamen. Appellatio ibidem saepius. Duis letalis quia. Vero vulputate ymo. Lobortis mauris obruo vulputate.\n\nDistineo esse importunus oppeto paratus patria paulatim saepius tamen. Feugiat genitus similis valetudo. Aptent commoveo conventio esca ibidem scisco vero virtus. Appellatio augue ea eligo sagaciter velit zelus. Accumsan amet camur dolor duis gemino magna natu neque occuro. Appellatio bene brevitas commodo iaceo imputo pala. Augue blandit eu eum feugiat neque similis virtus.\n\nAdipiscing bene causa eum iustum lenis nutus patria valde vindico. Incassum nobis praemitto ratis suscipere vereor ymo. Conventio facilisi populus. Accumsan aliquip erat veniam volutpat. Blandit hos ibidem nostrud nunc premo quis utrum. Distineo ille in ludus luptatum quidem refoveo sagaciter sed. Consequat et exerci exputo feugiat gilvus imputo nibh tum valetudo.\n\nAbigo distineo gilvus ideo imputo pagus pneum populus si. Acsi adipiscing cogo consectetuer gilvus lucidus melior sagaciter sit vulputate. Accumsan odio sudo ut uxor. Camur commodo duis haero luptatum nimis nutus venio.\n\nAbdo ea erat hendrerit rusticus tation utrum. Abico aptent dolus esse gravis ibidem inhibeo persto quidem. Ex inhibeo minim. Probo ratis te veniam venio. Autem commoveo feugiat lobortis mauris velit ymo. Dolore erat fere meus saluto sino vulputate. Feugiat minim sed. Abigo amet humo iusto luctus ratis suscipit.\n\n",
+            "format": "plain_text",
+            "summary": "Augue luctus sit te vel. Bene nunc persto. Aptent defui jus plaga sino. Autem commodo gilvus nisl nunc plaga proprius venio vereor.\n\nCaecus cui huic nostrud nunc obruo paulatim tamen tum utrum. Amet quadrum ratis verto zelus. Abico dolus duis ludus natu nimis nulla praesent torqueo valde. Fere genitus patria praesent valde. Et eum facilisi interdico ratis refero utrum validus. Cogo commodo erat meus neque tincidunt vero vindico voco. Augue bene commodo eum exerci feugiat huic ille neo utrum.\n\nCapto commoveo elit gilvus loquor ludus molior quibus saluto. Blandit consectetuer luptatum nisl pecus proprius ullamcorper verto vulpes. Accumsan elit incassum secundum suscipere. Dolore macto metuo occuro sagaciter.\n\nIdeo melior modo. Aptent illum imputo. Eligo gravis nisl quae. Appellatio ideo plaga valetudo veniam. Mos oppeto ratis sagaciter sudo te venio. Abluo esca pecus quadrum. Adipiscing aliquam consectetuer iustum luctus minim nulla probo quia.\n\nCogo comis commoveo laoreet luctus neo odio sagaciter verto. Aliquam lobortis refero. Aliquip cogo defui luctus premo roto voco. Camur commoveo gemino haero hendrerit. Conventio iaceo volutpat.\n\nAutem decet euismod laoreet molior. Abbas esse iusto luptatum modo natu nibh praemitto rusticus. Abigo adipiscing aliquam aptent fere quibus uxor wisi.\n\nAntehabeo augue camur eligo jumentum mauris melior tamen. Brevitas distineo oppeto paulatim pneum similis sino usitas validus. In lucidus patria. Abigo gemino genitus obruo valde verto. Accumsan damnum decet esca exputo imputo nibh nimis tum voco.\n\nCausa iaceo lenis magna pecus vero. Amet augue dignissim dolus exerci gravis nulla tum. Abluo eros facilisis inhibeo laoreet nunc nutus suscipere tamen. Appellatio ibidem saepius. Duis letalis quia. Vero vulputate ymo. Lobortis mauris obruo vulputate.\n\nDistineo esse importunus oppeto paratus patria paulatim saepius tamen. Feugiat genitus similis valetudo. Aptent commoveo conventio esca ibidem scisco vero virtus. Appellatio augue ea eligo sagaciter velit zelus. Accumsan amet camur dolor duis gemino magna natu neque occuro. Appellatio bene brevitas commodo iaceo imputo pala. Augue blandit eu eum feugiat neque similis virtus.\n\nAdipiscing bene causa eum iustum lenis nutus patria valde vindico. Incassum nobis praemitto ratis suscipere vereor ymo. Conventio facilisi populus. Accumsan aliquip erat veniam volutpat. Blandit hos ibidem nostrud nunc premo quis utrum. Distineo ille in ludus luptatum quidem refoveo sagaciter sed. Consequat et exerci exputo feugiat gilvus imputo nibh tum valetudo.\n\nAbigo distineo gilvus ideo imputo pagus pneum populus si. Acsi adipiscing cogo consectetuer gilvus lucidus melior sagaciter sit vulputate. Accumsan odio sudo ut uxor. Camur commodo duis haero luptatum nimis nutus venio.\n\nAbdo ea erat hendrerit rusticus tation utrum. Abico aptent dolus esse gravis ibidem inhibeo persto quidem. Ex inhibeo minim. Probo ratis te veniam venio. Autem commoveo feugiat lobortis mauris velit ymo. Dolore erat fere meus saluto sino vulputate. Feugiat minim sed. Abigo amet humo iusto luctus ratis suscipit.\n\n"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "At brevitas euismod iaceo loquor nostrud saepius si.",
+            "title": "Appellatio dignissim odio premo validus.",
+            "width": 284,
+            "height": 286,
+            "target_type": "file",
+            "target_uuid": "22a7aafa-26a6-485f-b972-5f465ba78640"
+        }
+    ]
+}

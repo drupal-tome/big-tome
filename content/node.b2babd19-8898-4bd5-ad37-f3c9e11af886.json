@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "b2babd19-8898-4bd5-ad37-f3c9e11af886"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6ede78be-da81-4913-8fb2-b29f59fb06a6"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-05-20T00:35:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a98d63f-a89c-4076-ac60-3ad87504c2a9"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a98d63f-a89c-4076-ac60-3ad87504c2a9"
+        }
+    ],
+    "title": [
+        {
+            "value": "frihiti"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-20T00:35:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-20T00:35:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "Minim singularis virtus. Amet causa damnum inhibeo lobortis lucidus molior quia validus vereor. Defui luptatum sed. Blandit consequat diam nutus sed. Cui iriure lobortis molior quadrum similis suscipere turpis. Aliquam eu ex haero incassum inhibeo utinam. Abico capto cui exerci ideo ille saepius ullamcorper valetudo vel.\n\nAbico facilisis olim valetudo vel ymo. Adipiscing augue commodo esca imputo lucidus luctus usitas zelus. Abbas adipiscing cogo hos sed. Abdo melior singularis ut virtus. Abdo appellatio brevitas praemitto sit utinam.\n\nBrevitas conventio iriure quis refoveo valde valetudo zelus. Aliquam blandit iaceo imputo neque paulatim refoveo suscipit wisi. Brevitas distineo eum inhibeo jumentum mos qui rusticus si. Aliquam caecus commoveo ea gravis humo. Acsi commodo lobortis. Esse iriure neque persto saepius velit voco.\n\nNimis nobis premo tation utrum. Diam euismod oppeto. Exerci illum incassum. Abigo humo ideo melior nisl nutus populus similis sit.\n\nAcsi augue esse haero imputo quadrum quia turpis zelus. Adipiscing aptent capto haero nutus populus quae quidem. Camur facilisis iriure molior plaga ymo. Decet eligo enim gravis paratus praemitto si velit volutpat vulpes.\n\nAliquam conventio jugis magna similis sino ulciscor veniam vicis voco. Dolore gemino gilvus hendrerit quibus rusticus. Augue iusto metuo mos sed tum typicus veniam.\n\nAd lobortis plaga scisco turpis ullamcorper valde wisi. Antehabeo camur esse haero mos odio populus vero. Iustum sed tum velit verto wisi. Ibidem imputo jumentum neque nutus valde veniam vereor. Abdo dolor duis exerci gilvus gravis hendrerit molior natu nutus.\n\nIlle rusticus vel veniam. Augue autem causa et tamen vicis vulputate. Abluo aliquam ea enim exputo imputo os rusticus usitas. Caecus consectetuer eum iriure macto magna refero sino. Abluo antehabeo consectetuer ex inhibeo neque occuro paulatim quidem. Brevitas camur fere loquor oppeto saluto vero virtus. Adipiscing distineo humo ideo luctus odio torqueo verto. Blandit damnum dolus natu paulatim plaga secundum vel.\n\nAbluo exerci illum olim vel. Abbas bene pagus plaga typicus. At commoveo hendrerit nostrud quia vicis wisi. At augue esca ibidem odio quidne sed veniam. Abluo hos luptatum persto proprius vel. Ad damnum decet humo tum vero.\n\nAptent iusto neque pagus populus sagaciter sino tego. Aliquip gravis valetudo. Abluo illum importunus jumentum lenis validus vulpes. Commodo decet os saepius sino. Feugiat incassum magna minim similis validus vindico. Huic illum incassum nulla pertineo ut vulputate. Augue eros esca et os sed sit tego tincidunt utinam. Accumsan appellatio camur iustum melior singularis vindico.\n\nAbluo distineo luptatum molior roto tego torqueo. Consequat esse exerci lobortis loquor populus quidem tincidunt turpis. Aliquam molior saluto ullamcorper ut valde.\n\nAutem gemino immitto letalis molior paulatim secundum si vulpes. Aliquam dolus inhibeo nisl praesent te torqueo vicis. Jugis jumentum similis tamen. Abdo dignissim dolus facilisi nostrud vulputate. Caecus camur eros exerci quidne.\n\n",
+            "format": "plain_text",
+            "summary": "Minim singularis virtus. Amet causa damnum inhibeo lobortis lucidus molior quia validus vereor. Defui luptatum sed. Blandit consequat diam nutus sed. Cui iriure lobortis molior quadrum similis suscipere turpis. Aliquam eu ex haero incassum inhibeo utinam. Abico capto cui exerci ideo ille saepius ullamcorper valetudo vel.\n\nAbico facilisis olim valetudo vel ymo. Adipiscing augue commodo esca imputo lucidus luctus usitas zelus. Abbas adipiscing cogo hos sed. Abdo melior singularis ut virtus. Abdo appellatio brevitas praemitto sit utinam.\n\nBrevitas conventio iriure quis refoveo valde valetudo zelus. Aliquam blandit iaceo imputo neque paulatim refoveo suscipit wisi. Brevitas distineo eum inhibeo jumentum mos qui rusticus si. Aliquam caecus commoveo ea gravis humo. Acsi commodo lobortis. Esse iriure neque persto saepius velit voco.\n\nNimis nobis premo tation utrum. Diam euismod oppeto. Exerci illum incassum. Abigo humo ideo melior nisl nutus populus similis sit.\n\nAcsi augue esse haero imputo quadrum quia turpis zelus. Adipiscing aptent capto haero nutus populus quae quidem. Camur facilisis iriure molior plaga ymo. Decet eligo enim gravis paratus praemitto si velit volutpat vulpes.\n\nAliquam conventio jugis magna similis sino ulciscor veniam vicis voco. Dolore gemino gilvus hendrerit quibus rusticus. Augue iusto metuo mos sed tum typicus veniam.\n\nAd lobortis plaga scisco turpis ullamcorper valde wisi. Antehabeo camur esse haero mos odio populus vero. Iustum sed tum velit verto wisi. Ibidem imputo jumentum neque nutus valde veniam vereor. Abdo dolor duis exerci gilvus gravis hendrerit molior natu nutus.\n\nIlle rusticus vel veniam. Augue autem causa et tamen vicis vulputate. Abluo aliquam ea enim exputo imputo os rusticus usitas. Caecus consectetuer eum iriure macto magna refero sino. Abluo antehabeo consectetuer ex inhibeo neque occuro paulatim quidem. Brevitas camur fere loquor oppeto saluto vero virtus. Adipiscing distineo humo ideo luctus odio torqueo verto. Blandit damnum dolus natu paulatim plaga secundum vel.\n\nAbluo exerci illum olim vel. Abbas bene pagus plaga typicus. At commoveo hendrerit nostrud quia vicis wisi. At augue esca ibidem odio quidne sed veniam. Abluo hos luptatum persto proprius vel. Ad damnum decet humo tum vero.\n\nAptent iusto neque pagus populus sagaciter sino tego. Aliquip gravis valetudo. Abluo illum importunus jumentum lenis validus vulpes. Commodo decet os saepius sino. Feugiat incassum magna minim similis validus vindico. Huic illum incassum nulla pertineo ut vulputate. Augue eros esca et os sed sit tego tincidunt utinam. Accumsan appellatio camur iustum melior singularis vindico.\n\nAbluo distineo luptatum molior roto tego torqueo. Consequat esse exerci lobortis loquor populus quidem tincidunt turpis. Aliquam molior saluto ullamcorper ut valde.\n\nAutem gemino immitto letalis molior paulatim secundum si vulpes. Aliquam dolus inhibeo nisl praesent te torqueo vicis. Jugis jumentum similis tamen. Abdo dignissim dolus facilisi nostrud vulputate. Caecus camur eros exerci quidne.\n\n"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Facilisi hos meus nobis voco.",
+            "title": "Dolore duis fere hendrerit lenis obruo pagus proprius tamen.",
+            "width": 596,
+            "height": 472,
+            "target_type": "file",
+            "target_uuid": "149e42de-a536-429b-abaa-f8bb53ae14c0"
+        }
+    ]
+}

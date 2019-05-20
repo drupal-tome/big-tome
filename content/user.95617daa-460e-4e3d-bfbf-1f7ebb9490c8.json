@@ -1,0 +1,39 @@
+{
+    "uid": [
+        {
+            "value": 17
+        }
+    ],
+    "uuid": [
+        {
+            "value": "95617daa-460e-4e3d-bfbf-1f7ebb9490c8"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "bramatrorotugivushupr"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-20T00:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-20T00:34:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ]
+}

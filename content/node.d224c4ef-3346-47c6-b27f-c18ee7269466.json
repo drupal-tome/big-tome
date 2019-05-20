@@ -1,0 +1,97 @@
+{
+    "uuid": [
+        {
+            "value": "d224c4ef-3346-47c6-b27f-c18ee7269466"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article",
+            "target_type": "node_type",
+            "target_uuid": "6ede78be-da81-4913-8fb2-b29f59fb06a6"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-05-20T00:42:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a98d63f-a89c-4076-ac60-3ad87504c2a9"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "6a98d63f-a89c-4076-ac60-3ad87504c2a9"
+        }
+    ],
+    "title": [
+        {
+            "value": "swiki"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-20T00:42:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-20T00:42:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "Bene esse ex exputo obruo refoveo. Adipiscing consectetuer gemino pala probo. Esca lenis luctus similis. Ex jus natu qui ratis rusticus tego verto zelus. Abigo at capto eros feugiat ideo modo turpis. Distineo feugiat minim occuro praemitto si tation.\n\nHumo importunus laoreet lenis mauris melior minim usitas. Antehabeo inhibeo iustum natu nisl roto vulputate. Blandit ea humo nulla singularis vicis. Duis eum facilisis gemino huic pala utrum uxor velit. Abico accumsan aliquam ea et eum letalis nunc pneum suscipere.\n\nAdipiscing paulatim rusticus. Antehabeo autem patria. Genitus ibidem lenis obruo proprius. Abbas abdo abico adipiscing autem mos suscipit. Aliquip iusto paulatim zelus. Ille quia veniam. Letalis lobortis luptatum nobis wisi.\n\nIlle laoreet ludus nobis oppeto praesent quibus te verto volutpat. Ea iaceo inhibeo iusto quia sed turpis typicus ulciscor vero. Cogo neque pagus quae. Eu nobis plaga probo quis saepius tation. Ibidem ideo importunus lenis rusticus singularis te ulciscor. Aliquip diam incassum zelus. Feugiat sino turpis.\n\nCommodo in quadrum ulciscor valetudo. Ad esca facilisis quae rusticus ut. Aptent dolor jus praemitto quis sagaciter similis ymo. Abico consectetuer damnum enim laoreet sino veniam.\n\nAt iustum nostrud saepius sudo. Bene blandit erat eum gilvus quadrum validus. Facilisis illum incassum saepius. Abluo commoveo consectetuer in proprius quidem tamen.\n\nComis dolor veniam. Autem metuo quae singularis tation velit. Augue causa imputo. Abigo eligo illum loquor pagus refoveo vel voco. Incassum odio torqueo. Aliquip brevitas ludus nostrud pagus saepius vel vero vindico. Inhibeo probo sudo vulpes vulputate wisi. Aliquip conventio haero nimis occuro rusticus torqueo vero.\n\nAccumsan caecus minim nibh singularis tum vulputate. Abbas comis eros facilisi patria ratis tum typicus ulciscor. Caecus eu genitus nulla pertineo sed ulciscor vereor wisi.\n\nCommodo consectetuer quidem turpis. Abluo aptent defui esse ideo inhibeo laoreet minim. Commodo dolor erat eros esse gemino sudo suscipere suscipit. Aliquam augue comis iustum odio utrum vel vero. Antehabeo augue bene comis dolore loquor vereor. Autem fere letalis nutus usitas vulputate. Euismod in lenis loquor modo oppeto quidne sino tego validus. Genitus haero molior persto quia tamen validus voco zelus.\n\nDistineo facilisi ille rusticus tincidunt. Acsi defui dolore exputo mauris neo os saepius. Lenis tego vero. Ideo immitto luctus patria quae sagaciter typicus valde wisi.\n\nCui eu modo occuro paulatim premo probo saepius secundum ut. Eum pala qui quibus. Aptent ille iriure occuro quae te. Distineo hendrerit quae refero. Aptent dignissim genitus immitto patria tincidunt.\n\nAppellatio iusto ludus. Abbas commoveo erat lobortis probo tation utrum uxor vero. Eu gemino singularis tum. Abigo meus mos natu neque pala sudo vereor volutpat. Conventio ea eros hos interdico letalis olim sino vereor. Abigo commoveo cui diam elit et lucidus odio paulatim vero.\n\n",
+            "format": "plain_text",
+            "summary": "Bene esse ex exputo obruo refoveo. Adipiscing consectetuer gemino pala probo. Esca lenis luctus similis. Ex jus natu qui ratis rusticus tego verto zelus. Abigo at capto eros feugiat ideo modo turpis. Distineo feugiat minim occuro praemitto si tation.\n\nHumo importunus laoreet lenis mauris melior minim usitas. Antehabeo inhibeo iustum natu nisl roto vulputate. Blandit ea humo nulla singularis vicis. Duis eum facilisis gemino huic pala utrum uxor velit. Abico accumsan aliquam ea et eum letalis nunc pneum suscipere.\n\nAdipiscing paulatim rusticus. Antehabeo autem patria. Genitus ibidem lenis obruo proprius. Abbas abdo abico adipiscing autem mos suscipit. Aliquip iusto paulatim zelus. Ille quia veniam. Letalis lobortis luptatum nobis wisi.\n\nIlle laoreet ludus nobis oppeto praesent quibus te verto volutpat. Ea iaceo inhibeo iusto quia sed turpis typicus ulciscor vero. Cogo neque pagus quae. Eu nobis plaga probo quis saepius tation. Ibidem ideo importunus lenis rusticus singularis te ulciscor. Aliquip diam incassum zelus. Feugiat sino turpis.\n\nCommodo in quadrum ulciscor valetudo. Ad esca facilisis quae rusticus ut. Aptent dolor jus praemitto quis sagaciter similis ymo. Abico consectetuer damnum enim laoreet sino veniam.\n\nAt iustum nostrud saepius sudo. Bene blandit erat eum gilvus quadrum validus. Facilisis illum incassum saepius. Abluo commoveo consectetuer in proprius quidem tamen.\n\nComis dolor veniam. Autem metuo quae singularis tation velit. Augue causa imputo. Abigo eligo illum loquor pagus refoveo vel voco. Incassum odio torqueo. Aliquip brevitas ludus nostrud pagus saepius vel vero vindico. Inhibeo probo sudo vulpes vulputate wisi. Aliquip conventio haero nimis occuro rusticus torqueo vero.\n\nAccumsan caecus minim nibh singularis tum vulputate. Abbas comis eros facilisi patria ratis tum typicus ulciscor. Caecus eu genitus nulla pertineo sed ulciscor vereor wisi.\n\nCommodo consectetuer quidem turpis. Abluo aptent defui esse ideo inhibeo laoreet minim. Commodo dolor erat eros esse gemino sudo suscipere suscipit. Aliquam augue comis iustum odio utrum vel vero. Antehabeo augue bene comis dolore loquor vereor. Autem fere letalis nutus usitas vulputate. Euismod in lenis loquor modo oppeto quidne sino tego validus. Genitus haero molior persto quia tamen validus voco zelus.\n\nDistineo facilisi ille rusticus tincidunt. Acsi defui dolore exputo mauris neo os saepius. Lenis tego vero. Ideo immitto luctus patria quae sagaciter typicus valde wisi.\n\nCui eu modo occuro paulatim premo probo saepius secundum ut. Eum pala qui quibus. Aptent ille iriure occuro quae te. Distineo hendrerit quae refero. Aptent dignissim genitus immitto patria tincidunt.\n\nAppellatio iusto ludus. Abbas commoveo erat lobortis probo tation utrum uxor vero. Eu gemino singularis tum. Abigo meus mos natu neque pala sudo vereor volutpat. Conventio ea eros hos interdico letalis olim sino vereor. Abigo commoveo cui diam elit et lucidus odio paulatim vero.\n\n"
+        }
+    ],
+    "field_image": [
+        {
+            "alt": "Autem capto enim modo utrum.",
+            "title": "Abigo ea ludus nobis patria quia wisi.",
+            "width": 373,
+            "height": 417,
+            "target_type": "file",
+            "target_uuid": "cf612f67-c351-4684-a108-42a36dd6130f"
+        }
+    ]
+}
