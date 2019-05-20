@@ -1,64 +1,23 @@
-# Composer template for Tome projects
+# big-tome
 
-This project is a great place to start for building brand new Tome projects.
+This project exists to test Tome's performance for very large static sites.
 
-There isn't much here now, but keep posted and let me know if anything doesn't
-work!
+Currently, there are 10,000 nodes on this site, each with their own page.
 
-# Requirements
+You can run `./install.sh` to install the site, `./static.sh` to build the
+static site, and `./lunr.sh` to build the search index.
 
-- PHP 7+
-- [Composer](https://getcomposer.org/)
-- [Drush](https://github.com/drush-ops/drush-launcher#installation---phar)
-- SQLite and the related PHP extensions
+## Un-scientific findings
 
-## Usage
+On my 2015 MacBook Pro, my recent times are:
 
-To create a new Tome project, run:
+- `./install.sh`: 4.5 minutes
+- `./static.sh`: 10 minutes
+- `./lunr.sh`: 4 minutes
 
-```bash
-composer create-project drupal-tome/tome-project my_site --stability dev --no-interaction
-drush tome:init
-```
+What makes consistent performance testing hard with Tome is that different PHP
+configurations, Drupal sites, and machines can all affect numbers.
 
-To re-install Tome, run:
-
-```bash
-drush tome:install
-```
-
-To start a local webserver, run:
-
-```bash
-drush runserver
-```
-
-When you're ready to build your static site, run:
-
-```bash
-drush tome:static
-```
-
-## Symlinks
-
-When composer install or update is ran, the "modules" and "themes" directories,
-as well as the "settings.php" file, is symlinked into the "web" directory.
-
-This is done to improve DX, but only works on systems that support `bash`, and
-symlinks. If you're running Windows you'll probably want to write a custom
-script to replace `symlink.sh`, and use the `mklink` command. Pull requests are
-welcome to make this functionality cross-platform by default.
-
-## Docker
-
-A Docker image for Tome is available on Docker Hub as `mortenson/tome`.
-Instructions on how to use the image can be found at [drupal-tome/tome-docker].
-
-## Further reading
-
-This project is largely based on [drupal-composer/drupal-project], so it's
-recommended that you consult their [README.md] for more information.
-
-[drupal-composer/drupal-project]: https://github.com/drupal-composer/drupal-project
-[README.md]: https://github.com/drupal-composer/drupal-project/blob/8.x/README.md
-[drupal-tome/tome-docker]: https://github.com/drupal-tome/tome-docker
+To get the best performance with this project or any large Tome site, it's up
+to you to tweak the `--process-count`, `--path-count`, and `--entity-count`
+options to match what your environment can handle.
